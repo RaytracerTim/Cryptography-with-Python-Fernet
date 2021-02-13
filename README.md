@@ -1,6 +1,6 @@
 # Cryptography-with-Python-Fernet
 Basic cryptography with Python using Fernet.
-Converts plaintext into encrypted text.
+Converts plaintext into encrypted text also keeps log of key and the data in text file.
 
 Prerequisite:
 Cryptography Python Library - pip3 install cryptography
